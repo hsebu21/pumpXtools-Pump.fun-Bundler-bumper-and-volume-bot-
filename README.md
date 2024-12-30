@@ -58,7 +58,8 @@ Enjoy optimized, profitable, and streamlined Pump.Fun launches!
 Support and Community
 We’re proud to be an open-source project and welcome contributions and feedback from the community. Need help or want to share your ideas?
 
- Contact us on Telegram: @hsebu21
+ Contact us on Telegram: t.me/hsebu21
+ 
 🌐 Join our telegram channel : https://t.me/pumpXtools
 
 Why Wait?
