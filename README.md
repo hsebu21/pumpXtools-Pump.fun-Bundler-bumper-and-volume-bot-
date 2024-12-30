@@ -64,3 +64,6 @@ We’re proud to be an open-source project and welcome contributions and feedbac
 
 Why Wait?
 Launch tokens like a pro with the Pump.Fun Bundler. Optimize, streamline, and profit today!
+![Screenshot 2024-12-30 151912](https://github.com/user-attachments/assets/5d726c3f-c84c-4b13-8b01-d9cda57ce104)
+
+
