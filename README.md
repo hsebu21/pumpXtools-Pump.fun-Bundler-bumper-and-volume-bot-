@@ -1,40 +1,39 @@
 ![image](https://github.com/user-attachments/assets/388bc7da-20f5-4db8-ac2b-cc5836e7fcff)
 
 
-Welcome to PumpXtools Pump.Fun Bundler
-Your go-to solution for seamless token launches on Pump.Fun! Designed with advanced profile creation and anti-bubble map capabilities, this free and open-source tool makes launching effortless and efficient.
+🚀 Introducing PumpXfun: The Ultimate Solana Bundler with 13 Powerful Functions! 🚀
 
-Why Choose Pump.Fun Bundler?
-Our tool allows you to launch tokens using up to 22 unique wallets and profiles, all while ensuring bubble map-proof and anti-Photon SB mark launches.
+Hey Solana traders!
 
-Key Features
-🌟 User-Friendly Interface
+I’m excited to announce that I’ve just launched PumpXfun, a powerful bundling tool for maximizing your Solana trades on Pump.Fun and Raydium! 🎉
 
-Effortlessly navigate through a fully automated and intuitive UI for hassle-free operations.
-🛠️ Advanced Profile Generation
+With 13 unique functions designed to optimize your trading strategies, you’ll be able to:
 
-Automatically create unique profiles for each wallet, holding random tokens to maximize authenticity.
-🔥 Custom Look-Up Table (LUT) Integration
+Launch & Bundle Buy – Execute trades with up to 22 wallets simultaneously for maximum impact.
+Generate New Wallets – Automatically generate wallets for every new launch.
+Create Vanity Wallets – Customize your wallets for added branding or personal use.
+Check Wallet Balances – Keep track of all your wallet balances in one place.
+Recover Sol from Subwallets – Automatically recover SOL after selling your launched tokens.
+Fund Wallets – Easily fund wallets for bundle buy operations.
+Dump Tokens – Dump tokens across Pump.Fun and Raydium with ease.
+Dump % from All Wallets – Optimize liquidity by dumping a percentage of tokens from all wallets.
+Targeted Dumping – Dump specific percentages from individual wallets for precision.
+Dump Token Amount – Liquidate tokens by specifying the exact amount to dump on both platforms.
+Warm-Up Mode – Execute random trades to avoid Photon flags and maintain a clean profile.
+Bumping – Buy and sell to increase token visibility and drive attention to your launch.
+Snipe Tokens – Precision sniping for your own or other tokens for strategic positioning.
+🔥 Seamless Integration, Full Control! 🔥 PumpXfun offers automated trades, faster execution, and customizable strategies, all designed to help you maximize profits while managing multiple wallets with ease.
 
-Leverage a bespoke LUT program to optimize and enhance your launch strategies.
-📊 Supply Deviation Management
+🎁 Limited Offer: First 100 Licenses at 60% OFF! 🎁
+To celebrate the launch, I’m offering a 60% discount on the first 100 licenses! Act fast before they’re gone!
 
-Smoothly handle supply variations with automated management tools.
-🔑 Configurable Multi-Buyers
+🔗 Get your license now and unlock the full potential of your trades! 🔗
 
-Set up and personalize strategies for up to 22 unique keypair buyers for tailored launch approaches.
-⚡ High Performance
+For more info, feel free to ask in the comments, or DM me for a quick demo!  t.me/hsebu21
 
-Experience top-tier stability, speed, and efficiency during your launches.
-🔗 Onchain Customization
-
-Integrate with a custom onchain program for seamless operations.
-💰 Flexible Sell Strategies
-
-Implement complex percentage-based selling strategies across multiple wallets simultaneously.
-…and much more!
 
 Get Started
+
 Step 1: Clone the Repository
 
   
